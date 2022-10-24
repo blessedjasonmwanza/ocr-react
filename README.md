@@ -2,7 +2,34 @@
 
 > A text extraction tool (extracting text from images) using ReactJs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# This project was built with
+
+- ReactJs
+
+- Tesseract.js
+
+- HTML & CSS
+
+# Author
+
+👤 **Blessed Jason Mwanza**
+- Portfolio : [http://blessedjasonmwanza.me](http://blessedjasonmwanza.me)
+
+- Github : [@blessedjasonmwanza](https://github.com/blessedjasonmwanza)
+
+- Twitter : [@mwanzabj](https://twitter.com/mwanzabj)
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/blessedjasonmwanza)
+
+# 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Donard97/recipe-app/issues).
+
+# Show your support
+
+Give a ⭐️ if you like this project!
 
 ## Available Scripts
 

@@ -1,0 +1,48 @@
+.App {
+  display:flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  padding-top: 10px;
+}
+
+.App div{
+  min-width: 40%;
+  max-width: 48%;
+  /* border: 1px solid red; */
+  border-radius: 8px;
+  padding: 12px;
+  box-shadow: 0px 0px 6px #3333;
+}
+
+.source-file{
+  display: flex;
+  flex-flow: column;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 8px;
+  color: #666;
+  gap: 10px;
+  margin-bottom: 5px;
+}
+
+.image-preview{
+  display: flex;
+  justify-content: space-around;
+  border-radius: 29px;
+  /* box-shadow: 0px 0px 6px #3333; */
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.progress{
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 8px;
+  color: #666;
+}
+
+footer{
+  color: #666;
+  width: max-content;
+  margin: 10px auto;
+}

@@ -25,7 +25,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Donard97/recipe-app/issues).
+Feel free to check the [issues page](https://github.com/blessedjasonmwanza/ocr-react/issues).
 
 # Show your support
 

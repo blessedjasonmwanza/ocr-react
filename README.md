@@ -2,6 +2,8 @@
 
 > A text extraction tool (extracting text from images) using ReactJs
 
+## [View Demo](http://blessedjasonmwanza.me/ocr-react/)
+
 # This project was built with
 
 - ReactJs
